@@ -1,0 +1,16 @@
+>To find where is file:
+find /home/santo
+or
+find / -name India
+>to download :
+yum install mlocate(name) -y
+updated
+
+>to rename:
+mv name name-new
+
+>to move:
+mv name /home/santo
+
+> to save :
+echo name >> file
